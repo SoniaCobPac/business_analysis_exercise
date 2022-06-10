@@ -1,0 +1,12 @@
+{
+  "namespace": "q4_cool_votes.avro",
+  "type": "record",
+  "name": "cool_votes",
+  "fields": [
+    {"name": "postal_code", "type": "string"},
+    {"name": "city", "type": "string"},
+    {"name": "state", "type": "string"},
+    {"name": "name", "type": "string"},
+    {"name": "max(cool)", "type": ["float", "null"]}
+  ]
+}

@@ -1,0 +1,370 @@
+city,state,count
+Harrisburg,OH,1
+Blacklick,OH,8
+Lake City,GA,6
+North Reading,MA,18
+Deltona,FL,39
+Hanover,MA,1
+"Portland, OR",OR,1
+Casselberry,FL,59
+West Roxbury,MA,31
+COCOA,FL,1
+ChampionsGate,FL,1
+St Cloud,FL,4
+Boston-Fenway,MA,2
+Medford,MA,109
+Brice,OH,1
+Superior,CO,9
+Vancouver,ABE,1
+North Vancouver,BC,166
+Whitehall,OH,17
+Hull,MA,15
+Orient,OH,1
+TITUSVILLE,FL,1
+longwood,FL,1
+Randolph,MA,38
+Lexington,MA,38
+Orange City,FL,43
+Marysville,OH,1
+Collegepark,GA,1
+Millersport,OH,1
+Orlando,FL,2330
+Windermere,FL,36
+Woburn,MA,93
+Dunwoody,GA,44
+Delaware,OH,45
+Roxbury Crossing,MA,11
+Winter park,FL,1
+Lafayette,CO,15
+Brockton,MA,9
+Manor,TX,16
+Galloway,OH,9
+Mableton,GA,10
+Carroll,OH,2
+Surrey,BC,159
+Sunbury,OH,23
+PORTLAND,OR,2
+Altamonte Sprin,FL,1
+Boulder,CO,231
+Reynoldsburg,OH,71
+Davenport,FL,67
+Mims,FL,1
+Walpole,MA,13
+Sudbury,MA,2
+Manchaca,TX,1
+Newton Centre,MA,5
+Jamestown,CO,2
+Nahant,MA,3
+Sommerville,MA,1
+Reunion,FL,1
+Liberty,KY,1
+Edgewood,FL,1
+Plain City,OH,8
+Miami Beach,FL,1
+Clarkston,GA,12
+Beaverton,OR,234
+Arlington,MA,61
+Winchester,MA,15
+Lougheed,BC,1
+Bay Lake,FL,2
+Richmond,BC,385
+Lake Buena Vista,FL,84
+Morrow,GA,4
+Belle Isle,FL,2
+"Buckhead, Atlanta",GA,1
+Beaverton,WA,1
+Peabody,MA,94
+Gladstone,OR,10
+Erie,CO,1
+Austin texas,TX,1
+Mattapan,MA,14
+Holbrook,MA,8
+Richmond,VA,1
+Newtonville,MA,8
+Beecave,TX,1
+Buena Ventura Lakes,FL,3
+Brighton,MA,65
+South Boston,MA,16
+Newton Upper Falls,MA,1
+London,OH,7
+Lee Vista,FL,1
+Longwood Fl,FL,1
+Lake Oswego,OR,53
+DeBary,FL,5
+Wekiva Springs,FL,1
+Sanford,FL,158
+Cocoa,FL,49
+St. Cloud,FL,18
+Tewksbury,MA,22
+Milton,MA,7
+Union Park,FL,1
+Portland,CA,1
+SANFORD,FL,3
+Damascus,OR,3
+Somerville,MA,234
+Waltham,MA,125
+Beverly,MA,63
+DAVENPORT,FL,1
+Rockledge,FL,1
+Revere,MA,88
+Cohasset,MA,16
+Port coquitlam,BC,1
+Newton Highlands,MA,4
+Harmony,FL,2
+Auburndale,MA,5
+Bee Caves,TX,2
+Leander,TX,2
+Concord,MA,15
+Needham,MA,30
+N.Reading,MA,1
+Happy Valley,OR,56
+ATLANTA,GA,1
+New Westminister,BC,2
+Framingham,MA,21
+Obetz,OH,6
+Lockbourne,OH,2
+Grove Port,OH,1
+Columbus,OH,1464
+North Weymouth,MA,3
+Groveport,OH,7
+Boston,MA,1228
+Watertown,MA,77
+Lynnfield,MA,17
+Westerville,OH,111
+South Weymouth,MA,5
+Mount Dora,FL,14
+Port St John,FL,1
+Conley,GA,3
+Orchards,WA,1
+Winter Springs,FL,52
+Chestnut Hill,MA,19
+Ellsworth,KS,1
+Austin,TX,2610
+Oviedo,FL,111
+Allston,MA,72
+Braintree,MA,82
+Avon,MA,9
+Brookhaven,GA,17
+HOLB,MA,1
+Delta,BC,44
+Canton,MA,27
+Portland,HI,2
+Smyrna,GA,162
+Billerica,MA,42
+Apopka,FL,90
+Decatur,GA,263
+Lewis Center,OH,37
+Sorrento,FL,2
+New Albany,OH,22
+Louisville,CO,47
+ORLANDO,FL,6
+Roslindale,MA,47
+Doraville,GA,64
+Riverdale,GA,1
+AUSTIN,TX,2
+Winthrop,MA,27
+Camas,WA,4
+Ocoee,FL,63
+North Olmsted,OH,1
+Stone Mountain,GA,25
+OVIEDO,FL,1
+Berkshire,OH,1
+Westwood,MA,15
+Lynn,MA,82
+Pflugerville,TX,14
+Wellesley,MA,33
+Mission Hill,MA,1
+Hanscom Air Force Base,MA,1
+LAKE CITY,GA,2
+Newwestminster,BC,1
+St John,FL,1
+Winter Park,FL,193
+Aloma,FL,1
+West Lake Hills,TX,9
+Belmont,MA,29
+Minneola,FL,1
+Coquitlam,BC,165
+Oregon City,OR,37
+Waterford Lakes,FL,1
+Lakeway,TX,33
+Medfield,MA,2
+Drippings Springs,TX,1
+Lithopolis,OH,3
+Kissimmee,FL,447
+Ladner,BC,1
+Loughman,FL,1
+Port Coquitlam,BC,55
+Bowen Island,BC,3
+St.Cloud,FL,2
+columbus,OH,1
+WALTHAM,MA,1
+Gresham,OR,18
+Titusville,FL,61
+CASSELBERRY,FL,1
+Bee Cave,TX,29
+Norcross,GA,9
+Galena,OH,2
+Danvers,MA,66
+Fern park,FL,1
+Geneva,FL,2
+Lake Mary,FL,104
+Salem,MA,113
+Altamonte Springs,FL,135
+Dublin,OH,126
+Jeffries Point / Airport,MA,1
+Needham Heights,MA,2
+Stoneham,MA,43
+Stoughton,MA,42
+Tucker,GA,98
+Longwood,FL,72
+Dorchester Center,MA,8
+Coumbus,OH,1
+Weymouth,MA,66
+Merritt Island,FL,28
+Charlestown,MA,18
+Johnstown,OH,1
+Orlando,CA,1
+Hingham,MA,27
+Dripping Springs,TX,23
+Sandy Spring,GA,1
+Happy valley,OR,1
+Vinings,GA,1
+Hyde Park,MA,24
+Lake Buena Visa,FL,1
+Fairview,OR,2
+Middleton,MA,14
+Buda,TX,48
+Lincoln,MA,3
+Dover,MA,1
+RichMond,BC,1
+Melrose,MA,27
+Vancouver,BC,1742
+West Newton,MA,6
+Scottdale,GA,6
+beaverton Or,OR,1
+East Point,GA,38
+Wayland,MA,15
+Port Saint John,FL,3
+So. Weymouth,MA,1
+Hilliard,OH,111
+Norwell,MA,14
+Championsgate,FL,2
+East Weymouth,MA,3
+Port Moody,BC,38
+Avondale Estates,GA,4
+Powell,OH,62
+Saugus,MA,64
+Poinciana,FL,6
+Newton Center,MA,2
+Norwood,MA,70
+Upper Arlngtn,OH,1
+Debary,FL,7
+Chelsea,MA,41
+East Walpole,MA,6
+West Medford,MA,1
+Longmont,CO,1
+Gahanna,OH,67
+Rockwood,OR,1
+Bexley,OH,12
+Lower Mills,MA,1
+Dale,TX,1
+E.Point,GA,1
+Sunset Valley,TX,12
+Marblehead,MA,17
+KISSIMMEE,FL,3
+Andover,MA,1
+Ellenwood,GA,6
+Kyle,TX,42
+Fulton,GA,1
+Hillsboro,OR,36
+Beuna Vista,FL,1
+Tualatin,OR,43
+Pataskala,OH,18
+Burnaby,BC,327
+Columbus ,OH,1
+Del Valle,TX,10
+Pickerington,OH,58
+HIngham,MA,1
+Tigard,OR,87
+Champions Gate,FL,8
+Grandview Heights,OH,7
+Rockland,MA,3
+Weston,MA,1
+Springfield,OH,1
+Forest Park,GA,28
+Upper Arlington,OH,27
+Wakefield,MA,35
+Sheridan,WY,1
+Carlisle,MA,1
+Grandview,OH,1
+Maitland,FL,29
+Alafaya,FL,5
+Atlanta,GA,2112
+East Watertown,MA,1
+Clermont,FL,125
+Milwaukie,OR,50
+Canal Winchester,OH,39
+Sandy Springs,GA,84
+Roxbury,MA,19
+Grove City,OH,91
+West Linn,OR,14
+Westlake Hills,TX,1
+Point Venture,TX,1
+Reading,MA,28
+Wellesley Hills,MA,1
+Polaris,OH,1
+Newton,MA,84
+Portland-Eastport Plaza,OR,1
+Portland,OR,1850
+Dorchester,MA,80
+South Bloomfield,OH,1
+Lockhart,FL,1
+Chuluota,FL,1
+Bedford,MA,17
+Swampscott,MA,26
+Malden,MA,95
+Aloha,OR,30
+Jamaica Plain,MA,64
+Saint Cloud,FL,43
+East boston,MA,1
+Heathrow,FL,2
+Everett,MA,90
+New Westminster,BC,114
+Boring,OR,1
+West Jefferson,OH,5
+Burlington,MA,69
+Quincy,MA,153
+kissimmee,FL,2
+Clackamas,OR,47
+Osteen,FL,1
+Fern Park,FL,6
+North Quincy,MA,3
+Vancouver,WA,364
+West Vancouver,BC,43
+Lawrenceville,GA,1
+Brookline,MA,115
+Ashville,OH,5
+DEBARY,FL,1
+Wilmington,MA,20
+Chamblee,GA,52
+Driftwood,TX,6
+Oak Grove,OR,4
+Marietta,GA,83
+Commercial Point,OH,4
+College Park,GA,44
+North Billerica,MA,10
+East Boston,MA,20
+North Andover,MA,1
+Dedham,MA,69
+King City,OR,5
+Cambridge,MA,354
+Winter Garden,FL,100
+Englewood,OH,1
+Oakhill,TX,1
+Natick,MA,60
+West Pataskala,OH,1
+Hapeville,GA,16
+Worthington,OH,37
+Buckhead,GA,1
+Celebration,FL,28
+Downtown Vancouver,BC,1

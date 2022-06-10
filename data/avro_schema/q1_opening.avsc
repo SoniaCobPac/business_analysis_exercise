@@ -1,0 +1,26 @@
+{
+    "namespace": "q1_opening.avro",
+    "type": "record",
+    "name": "q1_opening",
+    "fields": [
+      {"name": "postal_code", "type": "string"},
+      {"name": "city", "type": "string"},
+      {"name": "state", "type": "string"},
+      {"name": "Fri_p0.5", "type": ["float", "null"]},
+      {"name": "Mon_p0.5", "type": ["float", "null"]},
+      {"name": "Sat_p0.5", "type": ["float", "null"]},
+      {"name": "Sun_p0.5", "type": ["float", "null"]},
+      {"name": "Thu_p0.5", "type": ["float", "null"]},
+      {"name": "Tue_p0.5", "type": ["float", "null"]},
+      {"name": "Wed_p0.5", "type": ["float", "null"]},
+      {"name": "Total Median", "type": ["float", "null"]},
+      {"name": "Fri_p0.95", "type": ["float", "null"]},
+      {"name": "Mon_p0.95", "type": ["float", "null"]},
+      {"name": "Sat_p0.95", "type": ["float", "null"]},
+      {"name": "Sun_p0.95", "type": ["float", "null"]},
+      {"name": "Thu_p0.95", "type": ["float", "null"]},
+      {"name": "Tue_p0.95", "type": ["float", "null"]},
+      {"name": "Wed_p0.95", "type": ["float", "null"]},
+      {"name": "Total P95", "type": ["float", "null"]}  
+    ]
+  }

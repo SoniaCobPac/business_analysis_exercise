@@ -1,0 +1,10 @@
+{
+  "namespace": "q3_open_late.avro",
+  "type": "record",
+  "name": "open_late",
+  "fields": [
+    {"name": "city", "type": "string"},
+    {"name": "state", "type": "string"},
+    {"name": "count", "type": ["float", "null"]}
+  ]
+}
